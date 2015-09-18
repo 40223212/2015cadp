@@ -32,6 +32,8 @@
 
 Leo Editor 是一款可攜式的軟體，只要有網路的地方就可以使用。
 
+複習複習TAT...
+
     </t>
 </tnodes>
 </leo_file>
